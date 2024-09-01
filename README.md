@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jglsung/jglsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![DevOpsLogo](https://media.licdn.com/dms/image/v2/D5612AQFyhIwe1KpRcQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693849724517?e=2147483647&v=beta&t=Tw7-k64LywSyIyi2xn7l9rXX3veGObamA6ZO-zTwxdI)
+
+## Hey There 👋!
+I'm Gian Sung, a system administrator, language-enthusiast, seasoned musician, and full-time nerd :)
+
+Check out my [site](https://jglsung.github.io/)!
